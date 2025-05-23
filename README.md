@@ -1,6 +1,7 @@
 
-### Here you can find all the coding and modelling projects I'm working on. 
-*You can get more info about me via my website.*
+### Hey, thanks for checking out my Github! 
+I'm a tech enthusiast from Belgium with a passion for learning. On my profile you'll be able to find some coding projects I'm working on, as well as some 3D models I've made.  
 
-### Hier vindt u al mijn programmeer- en modelleerprojecten waaraan ik aan het werken ben. 
-*Meer info over mij kan u bekomen via mijn website.*
+You can get more info about me via [my personal website](https://kobegeens.neocities.org).
+
+
