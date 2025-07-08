@@ -5,5 +5,5 @@ You might like my friends their profile as well: [Jack Haesen](https://github.co
 
 
 ---
-
-<a href="mailto:kobegeens@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kobegeens@proton.me)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackclub.slack.com/team/U08RLMZ3R34)
